@@ -1,3 +1,3 @@
 ##LOGIN LAMP ##
 
-![]()
+![](lamp.png)
